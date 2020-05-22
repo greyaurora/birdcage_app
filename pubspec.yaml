@@ -1,0 +1,27 @@
+name: birdcage_app
+description: IFB102 Mini Project.
+
+version: 0.0.1+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  http: ^0.12.1
+  unicorndial: ^1.1.5
+  camera: ^0.5.8+1
+  path_provider: ^1.6.8
+  path: ^1.6.4
+  url_launcher: ^5.4.10
+  intl: ^0.16.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
